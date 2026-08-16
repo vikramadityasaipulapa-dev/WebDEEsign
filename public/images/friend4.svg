@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <defs>
+    <clipPath id="blob4"><circle cx="100" cy="100" r="95"/></clipPath>
+  </defs>
+  <circle cx="100" cy="100" r="95" fill="#F3D66E"/>
+  <g clip-path="url(#blob4)">
+    <circle cx="100" cy="120" r="55" fill="#2B2420" opacity="0.08"/>
+    <circle cx="100" cy="85" r="34" fill="#2B2420" opacity="0.85"/>
+    <ellipse cx="100" cy="165" rx="52" ry="44" fill="#2B2420" opacity="0.85"/>
+  </g>
+</svg>
